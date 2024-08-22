@@ -23,10 +23,5 @@ A implementação dos serviços AWS na empresa Abstergo Industries trouxe benef�
 
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a exploração de novas tecnologias AWS que possam oferecer melhorias adicionais nos processos da empresa.
 
-Anexos
-Manual de Implementação do Amazon S3
-Documentação AWS Lambda
-Planilhas de Custos de Amazon RDS
-Relatórios de Performance e Backup
-Assinatura do Responsável pelo Projeto:
+<h4>Assinatura do Responsável pelo Projeto:</h4>
 Eduardo Paim Silva
